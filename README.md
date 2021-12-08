@@ -1,2 +1,2 @@
-# sysu_system_design
-sysu_system_design
+# sysu_uml
+sysu uml学习
